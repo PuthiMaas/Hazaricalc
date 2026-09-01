@@ -1,0 +1,6 @@
+{
+  "name": "Hazari & Siko Calc",
+  "description": "Score calculator for Hazari (1000) and Siko card games with round breakdown and auto totals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
